@@ -11,9 +11,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-This README provides an overview of the Blinking LED Light project, which is a simple IT project that demonstrates how to control and blink an LED light using a microcontroller. This project can serve as a learning resource for beginners interested in embedded systems and microcontroller programming.
-
 ## Project Overview
 The Blinking LED Light project is a basic example of hardware-software integration using a microcontroller. The project involves controlling the state of an LED (Light Emitting Diode) to make it blink at a regular interval. This project can be extended and customized for more advanced applications and is an excellent starting point for anyone looking to get into embedded systems development.
 
